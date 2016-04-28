@@ -1,5 +1,5 @@
 # XML-to-Array
-Small &amp; simple easy PHP function to convert xml to array using YQL.
+Small &amp; simple easy PHP function/helper to convert xml to array using YQL.
 <h2>Usage:</h2>
 <pre>
 // include xmltoarray.php
